@@ -1,0 +1,51 @@
+.container {
+    background-color: lightblue;
+    padding: 20px;
+    height: 300vh;
+}
+
+.first {}
+
+
+.second {
+    background-color: lightcoral;
+    position: relative;
+    left: 40px;
+    top: 20px
+}
+
+.third {}
+
+
+
+
+/* Relative -- relative to the original position... 
+
+
+/* Absolute -- regardless of the original position
+.second {
+    background-color: lightcoral;
+    position: absolute;
+    left: 15px;
+    top: 40px;
+  }
+/*
+
+
+/* Fixed -- fixed relative to the browser's viewport, always shown
+.second {
+        background-color: lightcoral;
+        position: fixed;
+        left: 230px;
+        top: 70px;
+      }
+/*
+
+
+/* Sticky is often for like Menu or Navigation bar.
+.second {
+        background-color: lightcoral;
+        position: sticky;
+        top: 0;
+      }
+/*
