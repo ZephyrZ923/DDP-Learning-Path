@@ -1,0 +1,3 @@
+...
+This foldere is for the in-class python assessment exercise.
+Two files (one written by ChatGPT, and the other is self-written) are by comparsion to improve code skills
